@@ -4,7 +4,7 @@ body {
 
 body::before {
     content: "";
-    background-image: url("/src/images/spider-man-background.jpg");
+    background-image: url("./src/images/spider-man-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
